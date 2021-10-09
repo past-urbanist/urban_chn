@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Beijing",
+        "lng": 116.39723,
+        "lat": 39.9075,
+        "description": "Capital of China"
+    },
+    {
+        "title": "Shanghai",
+        "lng": 121.473657,
+        "lat": 31.230378,
+        "description": "Municipality"
+    },
+    {
+        "title": "Guangzhou",
+        "lng": 113.264219,
+        "lat": 23.129571,
+        "description": "Caital of Guangdong"
+    },
+    {
+        "title": "Chongqing",
+        "lng": 106.550464,
+        "lat": 29.563761,
+        "description": "Municipality"
+    },
+    {
+        "title": "Tianjin",
+        "lng": 117.201538,
+        "lat": 39.085294,
+        "description": "Municipality"
+    },
+    {
+        "title": "Chengdu",
+        "lng": 104.062786,
+        "lat": 30.587722,
+        "description": "Capital of Sichuan"
+    },
+    {
+        "title": "Harbin",
+        "lng": 126.535319,
+        "lat": 45.803131,
+        "description": "Capital of Heilongjiang"
+    },
+    {
+        "title": "Wuhan",
+        "lng": 114.305214,
+        "lat": 30.592934,
+        "description": "Caiptal of Hubei"
+    },
+    {
+        "title": "Shijiazhuang",
+        "lng": 114.514933,
+        "lat": 38.04247,
+        "description": "Capital of Hebei"
+    },
+    {
+        "title": "Zhengzhou",
+        "lng": 113.550621,
+        "lat": 34.763967,
+        "description": "Capital of Henan"
+    },
+    {
+        "title": "Hangzhou",
+        "lng": 120.209947,
+        "lat": 30.245853,
+        "description": "Capital of Zhejiang"
+    },
+    {
+        "title": "Xi'an",
+        "lng": 108.939992,
+        "lat": 34.341703,
+        "description": "Capital of Shaanxi"
+    },
+    {
+        "title": "Nanjing",
+        "lng": 118.796623,
+        "lat": 32.059352,
+        "description": "Capital of Jiangsu"
+    },
+    {
+        "title": "Shenyang",
+        "lng": 123.429246,
+        "lat": 41.805005,
+        "description": "Caital of Liaoning"
+    },
+    {
+        "title": "Hefei",
+        "lng": 117.227308,
+        "lat": 31.82057,
+        "description": "Capital of Anhui"
+    },
+    {
+        "title": "Changsha",
+        "lng": 112.939814,
+        "lat": 28.226081,
+        "description": "Capital of Hunan"
+    },
+    {
+        "title": "Changchun",
+        "lng": 125.32505,
+        "lat": 43.894436,
+        "description": "Capital of Jilin"
+    },
+    {
+        "title": "Fuzhou",
+        "lng": 119.296389,
+        "lat": 26.074268,
+        "description": "Capital of Fujian"
+    },
+    {
+        "title": "Jinan",
+        "lng": 117.120019,
+        "lat": 36.651853,
+        "description": "Capital of Shandong"
+    },
+    {
+        "title": "Nanning",
+        "lng": 108.36637,
+        "lat": 22.817746,
+        "description": "Capital of Guangxi"
+    },
+    {
+        "title": "Kunming",
+        "lng": 102.836628,
+        "lat": 24.878217,
+        "description": "Capital of Yunnan"
+    },
+    {
+        "title": "Nanchang",
+        "lng": 115.858181,
+        "lat": 28.682712,
+        "description": "Capital of Jiangxi"
+    },
+    {
+        "title": "Guiyang",
+        "lng": 106.629724,
+        "lat": 26.647254,
+        "description": "Capital of Guizhou"
+    },
+    {
+        "title": "Taiyuan",
+        "lng": 112.547135,
+        "lat": 37.878365,
+        "description": "Capital of Shanxi"
+    },
+    {
+        "title": "Lanzhou",
+        "lng": 103.833713,
+        "lat": 36.060899,
+        "description": "Capital of Gansu"
+    },
+    {
+        "title": "Urumqi",
+        "lng": 87.616842,
+        "lat": 43.82539,
+        "description": "Capital of Xinjiang"
+    },
+    {
+        "title": "Hohhot",
+        "lng": 111.71276,
+        "lat": 40.832488,
+        "description": "Capital of Inner Mogolia"
+    },
+    {
+        "title": "Yinchuan",
+        "lng": 106.23091,
+        "lat": 38.487198,
+        "description": "Capital of Ningixa"
+    },
+    {
+        "title": "Haikou",
+        "lng": 110.199823,
+        "lat": 20.045666,
+        "description": "Capital of Hainan"
+    },
+    {
+        "title": "Xining",
+        "lng": 101.740796,
+        "lat": 36.646829,
+        "description": "Capital of Qinghai"
+    },
+    {
+        "title": "Shenzhen",
+        "lng": 114.065543,
+        "lat": 22.558958,
+        "description": "Economic Center in South China"
+    },
+    {
+        "title": "Qingdao",
+        "lng": 120.382692,
+        "lat": 36.066798,
+        "description": "Economic Center in North China"
+    },
+    {
+        "title": "Ningbo",
+        "lng": 121.624538,
+        "lat": 29.860241,
+        "description": "Economic Center in East China"
+    },
+    {
+        "title": "Dalian",
+        "lng": 121.603177,
+        "lat": 38.952773,
+        "description": "Economic Center in North-east China"
+    },
+    {
+        "title": "Xiamen",
+        "lng": 118.089204,
+        "lat": 24.479664,
+        "description": "Economic Center in South-east China"
+    },
+    {
+        "title": "Lhasa",
+        "lng": 91.172112,
+        "lat": 29.652491,
+        "description": "Capital of Tibet"
+    },
+    {
+        "title": "Taipei",
+        "lng": 121.564468,
+        "lat": 25.033964,
+        "description": "Capital of Taiwan"
+    }
+]
