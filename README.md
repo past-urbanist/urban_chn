@@ -1,6 +1,6 @@
 # Urban China Web Design
 
-<img src=". /img/display.png" width="80%">
+<img src="./img/display.png" width="80%">
 
 ## Start
 
@@ -21,7 +21,7 @@
 
 2. Continuous urban land change in China presented via `.gif`, raster data using Web Mercator projection (EPSG:3857)
 
-   <img src=". /img/display_land.png" width="70%">
+   <img src="./img/display_land.png" width="70%">
 
 ## Population data
 
