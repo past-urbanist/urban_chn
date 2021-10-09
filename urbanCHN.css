@@ -1,0 +1,173 @@
+* {
+    font-family: arial, serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;   
+    height: 100%; 
+    width: 100%;
+}
+
+.MARKER {
+    background-image: url('./img/loc_big.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 35px;
+    height: 45px;
+    cursor: pointer;
+}
+
+.marker {
+    background-image: url('./img/loc.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 27px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.mapboxgl-popup {
+    max-width: 100px;
+}
+
+.mapboxgl-popup-content {
+    text-align: center;
+    font-family: arial, sans-serif;
+}
+
+nav {
+    float: left;
+    position: fixed;
+    height: 100%;    
+    width: 25%;
+    min-width: 350px;
+    padding: 10px 35px 10px 35px;
+    background-color: black;
+    color: #FFF;
+}
+
+nav header {
+    padding-top: 30px;
+}
+
+nav header h1 {
+    font-size: 40px;
+    margin: 0 0;
+    text-align: center;
+    line-height: 60px;
+}
+
+nav .container {
+    list-style-type: none;
+    font-size: 20px;
+    margin: 0;
+    line-height: 30px;
+}
+
+nav .container > div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
+    margin: 15px 0;
+}
+
+nav input {
+    background: transparent;
+    background-size: 60px auto;
+    background-repeat: no-repeat; 
+    background-position: center;
+    width: 70px;
+    height: 70px;
+}
+
+.sub-title {
+    padding: 0 0 10px 0;
+    font-size: 15px;
+    color: #FFFFFF80;
+    text-align: center;
+}
+
+.background {
+    margin: auto;
+    display: block;
+    width: auto;
+    height: 15%;
+    background: transparent;  
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.rights {
+    padding-top: 10px;
+    font-size: 0.8em;
+    color: #FFFFFF80;
+}
+
+main {
+    height: 100%;
+    width: 75%;
+    margin-left: 25%;
+    position: fixed;
+    z-index: -1;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;    
+}
+
+main a {
+    float: right;
+    height: 10%;
+    display: flex;
+    align-items: flex-end;
+    border: 5px black;
+}
+
+main input{   
+    background-size: 70px 70px;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    width: 70px;
+    height: 70px;
+    z-index: 1;
+}
+
+.RS{
+    background-image:  url("./img/RS.png") ;
+}
+
+.street{
+    background-image:  url("./img/street.png") ;
+}
+
+.dark{
+    background-image:  url("./img/dark.png") ;
+}
+
+.jump{
+    background-image:  url("./img/jump.png") ;
+}
+
+.holistic{
+    background-image:  url("./img/china.png") ;
+}
+
+.reset{
+    background-image:  url("./img/reset.png") ;
+}
+
+.land{
+    background-image:  url("./img/land.png") ;
+}
+
+.pop{
+    background-image:  url("./img/pop.png") ;
+}
